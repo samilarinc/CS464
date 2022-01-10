@@ -1,0 +1,4 @@
+Notebook: https://colab.research.google.com/drive/1AS_rBQE7mDnjYjscGaA98J4K5M15Meeb#scrollTo=N3L2zjEN_tZf
+
+Folder containing models: 
+https://drive.google.com/drive/folders/183gY9rTMoqJu_1Dg_qoUdjLSn8CBu89D?usp=sharing
